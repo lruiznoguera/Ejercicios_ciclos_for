@@ -1,3 +1,5 @@
+# Calcule el factorial de un número. (n!= 1*2*3*...*n)
+
 n = int(input("ingrese un número "))
 fact = 1
 
